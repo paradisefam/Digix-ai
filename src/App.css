@@ -69,6 +69,17 @@ nav a {
   padding: 24px 32px;
 }
 
+.hero-content h1 {
+  font-size: 46px;
+  margin: 48px 0;
+}
+
+.hero-content h1 {
+  color: #fff;
+  line-height: 1.5;
+  font-weight: normal;
+}
+
 .hero-pianoroll {
   position: absolute;
   top: 130px;
